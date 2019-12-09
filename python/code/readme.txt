@@ -5,7 +5,7 @@
 2019/12/5 program_structure
 	  完成if，if-else，for循环，while循环，三元操作符
 2019/12/8 functions
-	  未完成定义，返回值，参数，匿名函数
+	  完成定义，调用，返回值，参数（可变，不可变），匿名函数
 2019/12/9 iterator，generator
           未完成
 	  
