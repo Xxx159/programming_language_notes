@@ -9,8 +9,9 @@
 2019/12/12 iterator，generator
           完成迭代器和生成器
 2019/12/13 module，file，expection
-	   未完成
+	   完成模块，文件，错误和异常
 2019/12/13 Object Oriented Programming
+	   未完成命名空间和作用域，面向对象
 
 
 
